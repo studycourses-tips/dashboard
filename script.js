@@ -1,5 +1,5 @@
-const baseURL = "https://mochaservices.github.io/gamelib";
-const secondaryURL = "https://mochaservices.github.io/games"
+const baseURL = "https://mochaeducation.github.io/gamelib";
+const secondaryURL = "https://mochaeducation.github.io/games"
 const games = [
     {
         title: "Vex 8",
